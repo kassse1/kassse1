@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+	   <title>Главная страница</title>
+	   <meta charset="utf-8">
+	</head>
+	<body>
+          <h1>я уставший я очень поздно уснул</h2>
+	  <h2>я хочу в доту поиграть и наверное пойду играть доту<h/2>
+	  <p>у меня такой <i>даун</i> был на кери это копец</p>
+	  <img src="https://i.ytimg.com/vi/MRErOZ0KboY/hqdefault.jpg" width="50%">
+	  <video width="50%" height="50%" controls="controls" autoplay>
+	  <source src="ЛУЧШИЕ РЕЙДЖИ ПАПИЧА ! _ EvilArthas - Rage.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+	  </video>
+	  <audio controls>
+	  <source src="Алена Швец. - первое свидание.mp3" type="audio/mpeg">
+	</body>
+</html>
